@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are From Group 9</h1>
-<h3 align="center">A passionate Security Operation Center (SOC) From Computer Engineering Technology</h3>
+<h3 align="center">A passionate Security Operation Center (SOC) From Computer Engineering Technology IPB University</h3>
 
 <h3 align="left">Connect with us!</h3>
 <p align="left">
