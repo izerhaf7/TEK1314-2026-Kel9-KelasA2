@@ -5,4 +5,4 @@
 <p align="left">
 </p>
 
-<p>_"Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras "Dan hanya kepada Tuhanmulah hendaknya kamu berharap"._</p>
+_"Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras "Dan hanya kepada Tuhanmulah hendaknya kamu berharap"._
