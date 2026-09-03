@@ -5,5 +5,5 @@
 <p align="left">
 </p>
 
-_"Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras "Dan hanya kepada Tuhanmulah hendaknya kamu berharap"._
+_"Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras" "Dan hanya kepada Tuhanmulah hendaknya kamu berharap"._
 _—QS. Al-Insyirah: 7-8_
