@@ -1,13 +1,23 @@
 # 🌐 Skema Pembagian IP — Skenario Kelompok 9
 
-> Pembagian IP yang kami susun didasari dari kebutuhan skenario kami, baik IP privat maupun IP publik yang kami rancang keduanya memiliki **_identifier_ unik** di oktet ke-3 berupa **nomor kelompok** kami.
+> Pembagian IP yang kami susun didasari dari kebutuhan skenario kami, baik IP privat maupun IP publik yang kami rancang keduanya memiliki       di oktet ke-3 berupa 9 kami.
 
 ---
-
-## 🧩 Topologi Utama
+## 🔁 Topologi Utama
 
 Topologi ini meliputi IP privat dan IP publik yang disusun sedemikian rupa mendekati studi kasus _design system_ pada dunia nyata, sekaligus merepresentasikan topologi dari sistem **IoT (Internet of Things)** kami.
 
+| Hostname | IP Address | OS Direncanakan |
+|:---|:---|:---:|
+| **Attacker Node** | `172.16.9.150` | Kali Linux |
+| **Monitoring Node** | `172.16.9.100` | Security Union |
+| **Target Server** | `172.16.9.1` | Metasploitable |
+
+
+## 🧩 Topologi alternatif
+
+
+> Topologi ini disiapkan **hanya sebagai cadangan** apabila topologi utama tidak memenuhi syarat praktikum.
 | Hostname | IP Address | OS Direncanakan |
 |:---|:---|:---:|
 | **Attacker Node** | Eth0: `10.0.9.10/24` | Kali Linux |
@@ -20,12 +30,4 @@ Topologi ini meliputi IP privat dan IP publik yang disusun sedemikian rupa mende
 
 ---
 
-## 🔁 Topologi Alternatif
 
-> Topologi ini disiapkan **hanya sebagai cadangan** apabila topologi utama tidak memenuhi syarat praktikum.
-
-| Hostname | IP Address | OS Direncanakan |
-|:---|:---|:---:|
-| **Attacker Node** | `172.16.9.150` | Kali Linux |
-| **Monitoring Node** | `172.16.9.100` | Security Union |
-| **Target Server** | `172.16.9.1` | Metasploitable |
