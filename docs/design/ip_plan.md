@@ -1,6 +1,6 @@
 # 🌐 Skema Pembagian IP — Skenario Kelompok 9
 
-> Pembagian IP yang kami susun didasari dari kebutuhan skenario kami, baik IP privat maupun IP publik yang kami rancang keduanya memiliki       di oktet ke-3 berupa 9 kami.
+> Pembagian IP yang kami susun didasari dari kebutuhan skenario kami, baik IP privat maupun IP publik yang kami rancang keduanya memiliki nomor kelompok 9 di oktet ke-3 yang merupakan nomor kelompok kami.
 
 ---
 ## 🔁 Topologi Utama
@@ -9,9 +9,9 @@ Topologi ini meliputi IP privat dan IP publik yang disusun sedemikian rupa mende
 
 | Hostname | IP Address | OS Direncanakan |
 |:---|:---|:---:|
-| **Attacker Node** | `172.16.9.150` | Kali Linux |
-| **Monitoring Node** | `172.16.9.100` | Security Union |
-| **Target Server** | `172.16.9.1` | Metasploitable |
+| **Attacker Node** | `172.16.9.150/24` | Kali Linux |
+| **Monitoring Node** | `172.16.9.100/24` | Security Union |
+| **Target Server** | `172.16.9.1/24` | Metasploitable |
 
 
 ## 🧩 Topologi alternatif
