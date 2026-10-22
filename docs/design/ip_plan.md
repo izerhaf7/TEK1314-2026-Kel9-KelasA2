@@ -11,7 +11,7 @@ Topologi ini meliputi IP privat dan IP publik yang disusun sedemikian rupa mende
 |:---|:---|:---:|
 | **Attacker Node** | `172.16.9.150/24` | Kali Linux |
 | **Monitoring Node** | `172.16.9.100/24` | Security Union |
-| **Target Server** | `172.16.9.1/24` | Metasploitable |
+| **Target Server** | `172.16.9.1/24` | Ubuntu Linux |
 
 
 ## 🧩 Topologi alternatif
