@@ -19,3 +19,5 @@ Desain ini memiliki 3 _node_, yaitu:
 - 📡 **Monitoring Node**
 
 Masing-masing node memiliki 2 IP, yaitu IP privat dan IP publik. Setiap perangkat juga terhubung ke setidaknya satu _networking device_ sebagai akses ke internet. Nantinya, segala bentuk serangan akan berjalan via koneksi internet, dan konfigurasi defensif akan dijalankan di server target menyerupai kasus siber yang ada di dunia nyata.
+
+<h2> Link Video Project: https://ipb.link/kelompok9-purple-team-loop </h2>
